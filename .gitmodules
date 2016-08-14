@@ -1,0 +1,3 @@
+[submodule "OpenWeatherMapKnockoutExample"]
+	path = OpenWeatherMapKnockoutExample
+	url = git@github.com:ahmyi/OpenWeatherMapKnockoutExample.git
